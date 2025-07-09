@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bo0miul73qx16"
+path="res://.godot/imported/battle2-piano.wav-0321f8120ccd7952fd0e39ee9e292995.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST .Piano/OST .Piano/OST .Piano/battle2-piano.wav"
+dest_files=["res://.godot/imported/battle2-piano.wav-0321f8120ccd7952fd0e39ee9e292995.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

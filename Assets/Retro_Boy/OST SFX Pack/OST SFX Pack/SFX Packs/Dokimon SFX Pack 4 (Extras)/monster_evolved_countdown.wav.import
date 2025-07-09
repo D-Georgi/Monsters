@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://du6gyxi8astjy"
+path="res://.godot/imported/monster_evolved_countdown.wav-7325d7baf8d59ba24de318c429fd1dc8.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST SFX Pack/OST SFX Pack/SFX Packs/Dokimon SFX Pack 4 (Extras)/monster_evolved_countdown.wav"
+dest_files=["res://.godot/imported/monster_evolved_countdown.wav-7325d7baf8d59ba24de318c429fd1dc8.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

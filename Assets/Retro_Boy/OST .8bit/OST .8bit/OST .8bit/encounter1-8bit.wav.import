@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bxxau068pjdha"
+path="res://.godot/imported/encounter1-8bit.wav-1502d2995f884ff666c9879dd0870366.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST .8bit/OST .8bit/OST .8bit/encounter1-8bit.wav"
+dest_files=["res://.godot/imported/encounter1-8bit.wav-1502d2995f884ff666c9879dd0870366.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

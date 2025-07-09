@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bquontpdqs8wp"
+path="res://.godot/imported/pickup monster PC.wav-d79599ddcb1d7aa0ea19d88f7797f760.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST SFX Pack/OST SFX Pack/SFX Packs/Dokimon SFX Pack 2/pickup monster PC.wav"
+dest_files=["res://.godot/imported/pickup monster PC.wav-d79599ddcb1d7aa0ea19d88f7797f760.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

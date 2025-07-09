@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://tgsdiyat3h03"
+path="res://.godot/imported/nom 2.wav-2baae8d9cfaa70c9a478db4e312ff501.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST SFX Pack/OST SFX Pack/SFX Packs/Dokimon SFX Pack 3/nom 2.wav"
+dest_files=["res://.godot/imported/nom 2.wav-2baae8d9cfaa70c9a478db4e312ff501.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bdin0knijawct"
+path="res://.godot/imported/rural3-8bit.wav-ca3fa4043a44997a26b7673594f89e8a.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST .8bit/OST .8bit/OST .8bit/rural3-8bit.wav"
+dest_files=["res://.godot/imported/rural3-8bit.wav-ca3fa4043a44997a26b7673594f89e8a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

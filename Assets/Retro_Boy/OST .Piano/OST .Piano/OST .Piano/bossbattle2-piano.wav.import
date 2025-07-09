@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b70hg1u5d18ea"
+path="res://.godot/imported/bossbattle2-piano.wav-a5378a920d30d039f621c5197e5237cb.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST .Piano/OST .Piano/OST .Piano/bossbattle2-piano.wav"
+dest_files=["res://.godot/imported/bossbattle2-piano.wav-a5378a920d30d039f621c5197e5237cb.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

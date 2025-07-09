@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cuu1yubnt2cqt"
+path="res://.godot/imported/bossbattle2-8bit.wav-2ba8e2598b55bd0ba42d4a577f6c107a.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST .8bit/OST .8bit/OST .8bit/bossbattle2-8bit.wav"
+dest_files=["res://.godot/imported/bossbattle2-8bit.wav-2ba8e2598b55bd0ba42d4a577f6c107a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

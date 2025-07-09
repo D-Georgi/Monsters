@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c6leroh7xi02r"
+path="res://.godot/imported/used_healing_item.wav-8245dfb3b0c967e5caa0159d9a88cfcd.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST SFX Pack/OST SFX Pack/SFX Packs/Dokimon SFX Pack 4 (Extras)/used_healing_item.wav"
+dest_files=["res://.godot/imported/used_healing_item.wav-8245dfb3b0c967e5caa0159d9a88cfcd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

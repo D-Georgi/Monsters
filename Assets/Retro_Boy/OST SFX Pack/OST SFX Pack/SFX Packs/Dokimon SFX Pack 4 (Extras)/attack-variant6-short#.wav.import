@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://diw2llc0v4dp4"
+path="res://.godot/imported/attack-variant6-short#.wav-fde2c339f7d5b28cb30a455f2f96096f.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST SFX Pack/OST SFX Pack/SFX Packs/Dokimon SFX Pack 4 (Extras)/attack-variant6-short#.wav"
+dest_files=["res://.godot/imported/attack-variant6-short#.wav-fde2c339f7d5b28cb30a455f2f96096f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

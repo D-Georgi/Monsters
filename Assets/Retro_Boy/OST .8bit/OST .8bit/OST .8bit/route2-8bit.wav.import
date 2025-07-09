@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ccaklxfyf2rei"
+path="res://.godot/imported/route2-8bit.wav-87b1b370a210e98319ed28b44a8627b4.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST .8bit/OST .8bit/OST .8bit/route2-8bit.wav"
+dest_files=["res://.godot/imported/route2-8bit.wav-87b1b370a210e98319ed28b44a8627b4.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

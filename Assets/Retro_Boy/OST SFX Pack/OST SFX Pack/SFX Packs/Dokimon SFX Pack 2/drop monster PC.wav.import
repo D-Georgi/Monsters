@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cbekba667kt7u"
+path="res://.godot/imported/drop monster PC.wav-237e66f420f533dcbaa923ee919f9fce.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST SFX Pack/OST SFX Pack/SFX Packs/Dokimon SFX Pack 2/drop monster PC.wav"
+dest_files=["res://.godot/imported/drop monster PC.wav-237e66f420f533dcbaa923ee919f9fce.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

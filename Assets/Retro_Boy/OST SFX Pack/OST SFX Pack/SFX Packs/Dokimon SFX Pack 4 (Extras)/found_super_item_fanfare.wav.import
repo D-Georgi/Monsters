@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bw2cvo5j0f5tt"
+path="res://.godot/imported/found_super_item_fanfare.wav-955e7831c0e08a0262d9e820c6445e14.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST SFX Pack/OST SFX Pack/SFX Packs/Dokimon SFX Pack 4 (Extras)/found_super_item_fanfare.wav"
+dest_files=["res://.godot/imported/found_super_item_fanfare.wav-955e7831c0e08a0262d9e820c6445e14.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://t2dd0jhms47s"
+path="res://.godot/imported/route2-piano.wav-571a1d0aaefc71f9b437b2d70640e71f.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST .Piano/OST .Piano/OST .Piano/route2-piano.wav"
+dest_files=["res://.godot/imported/route2-piano.wav-571a1d0aaefc71f9b437b2d70640e71f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

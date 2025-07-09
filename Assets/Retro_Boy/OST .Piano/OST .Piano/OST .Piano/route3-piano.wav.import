@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cvudra8uxqmhe"
+path="res://.godot/imported/route3-piano.wav-9133e1e99be77a036876be5613c11394.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST .Piano/OST .Piano/OST .Piano/route3-piano.wav"
+dest_files=["res://.godot/imported/route3-piano.wav-9133e1e99be77a036876be5613c11394.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

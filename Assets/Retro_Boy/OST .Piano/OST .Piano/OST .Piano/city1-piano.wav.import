@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ce0x5t8ac3qvd"
+path="res://.godot/imported/city1-piano.wav-efdec7cb6697a62409be283efb91fbc6.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST .Piano/OST .Piano/OST .Piano/city1-piano.wav"
+dest_files=["res://.godot/imported/city1-piano.wav-efdec7cb6697a62409be283efb91fbc6.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

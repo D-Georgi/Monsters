@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dhf0t6hy03shf"
+path="res://.godot/imported/monster_capture_success_routine.wav-b7c922e430502a7e35b1c4f0892a3c6b.sample"
+
+[deps]
+
+source_file="res://Assets/Retro_Boy/OST SFX Pack/OST SFX Pack/SFX Packs/Dokimon SFX Pack 4 (Extras)/monster_capture_success_routine.wav"
+dest_files=["res://.godot/imported/monster_capture_success_routine.wav-b7c922e430502a7e35b1c4f0892a3c6b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
